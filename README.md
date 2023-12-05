@@ -1,0 +1,1 @@
+# CodeClausse_TypingSpeedTest
