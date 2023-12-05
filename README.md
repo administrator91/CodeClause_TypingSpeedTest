@@ -1,4 +1,4 @@
-## CodeClausse_TypingSpeedTest
+## CodeClause_TypingSpeedTest
 This project aims to provide a dynamic platform for users to improve their typing skills while measuring their speed and accuracy. Whether you're a beginner looking to enhance your keyboard proficiency or an experienced typist aiming to track progress, this Typing Speed Measure Calculator has you covered.
 
 
